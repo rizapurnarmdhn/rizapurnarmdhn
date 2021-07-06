@@ -1,4 +1,6 @@
-### Hi there, I'm Riza! 👋
+## Hi there, I'm Riza! 👋
+
+## I'm a Statistician, Data Analyst, SQL Addict, Writer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riza-purnaramadhan-59552b168/) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@rizapurnaramadhan)](https://medium.com/@rizapurnaramadhan)
 

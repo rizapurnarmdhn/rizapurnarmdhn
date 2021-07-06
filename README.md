@@ -18,3 +18,5 @@ Hi I'm Riza Purnaramadhan from Indonesia, I graduated with a bachelor's degree i
 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rizapurnaramadhan/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rizapurnaramadhan/3" alt="Recent Article 3"> 
+  
+  

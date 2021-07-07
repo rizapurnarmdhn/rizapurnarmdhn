@@ -15,6 +15,42 @@ Hi I'm Riza Purnaramadhan from Indonesia, I graduated with a bachelor's degree i
   📖 **Bachelor's degree of Statistics**\
   📆 2017 - 2021
   
+## Experience
+  
+- :computer: **Data Analyst**\
+  📆 Mar 2021 – Jun 2021\
+  📍 **PT. Speedwork Solusi Utama**
+  
+- :computer: **Data Science Mentor**\
+  📆 Jun 2021\
+  :office: **Merintis Indonesia**
+  
+- :computer: **Contributing Writer on Medium Publicaton**\
+  📆 Mar 2021 – Now\
+  📈 **Analytics Vidhya**
+  
+- :computer: **Management Information System Assistant Practicum**\
+  📆 Sep 2019 – Jan 2019 & Sep 2020 – Jan 2021\
+  📍 **Islamic University of Indonesia** - Yogyakarta, Indonesia
+  
+- :computer: **Database Assistant Practicum**\
+  📆 Feb 2020 – Jun 2020\
+  📍 **Islamic University of Indonesia** - Yogyakarta, Indonesia
+  
+- :computer: **Work Practice**\
+  📆 Jan 2020 – Feb 2020\
+  📍 **Badan Pusat Statistik Kabupaten Kulon Progo** - Yogyakarta, Indonesia
+  
+- :computer: **Webinar Guest Speaker**\
+  📆 Okt 2020\
+  :office: **Riverstone Training Pte Ltd**
+  
+
+  
+  
+  
+ 
+  
   </details>
 
 ## Languages and Tools:
